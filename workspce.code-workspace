@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "workspace",
+			"path": "."
+		},
+		{
+			"name": "imooc",
+			"path": "./imooc"
+		},
+		{
+			"name": "leetcode",
+			"path": "./leetcode"
+		}
+	],
+	"settings": {}
+}
