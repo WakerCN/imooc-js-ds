@@ -6,6 +6,9 @@
 
 // @lc code=start
 function isValid(s: string): boolean {
+  if (s.length % 2 === 1) {
+    return false;
+  }
   const stack: string[] = [];
 
   for (let index = 0; index < s.length; index++) {
