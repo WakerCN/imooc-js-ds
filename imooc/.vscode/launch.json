@@ -7,9 +7,9 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "leetcode run",
+      "name": "imooc run",
       "skipFiles": ["<node_internals>/**"],
-      "preLaunchTask": "tsc: watch",
+      "preLaunchTask": "imooc tsc: watch",
       "program": "${file}"
     }
   ]
