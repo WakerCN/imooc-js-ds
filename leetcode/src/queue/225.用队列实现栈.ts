@@ -77,3 +77,5 @@ class MyStack {
  * var param_4 = obj.empty()
  */
 // @lc code=end
+
+export {};

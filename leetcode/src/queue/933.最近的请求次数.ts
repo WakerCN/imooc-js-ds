@@ -28,3 +28,5 @@ class RecentCounter {
  * var param_1 = obj.ping(t)
  */
 // @lc code=end
+
+export {}
