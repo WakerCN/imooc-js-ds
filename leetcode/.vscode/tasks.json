@@ -6,7 +6,9 @@
       "tsconfig": "tsconfig.json",
       "option": "watch",
       "problemMatcher": ["$tsc-watch"],
-      "group": { "kind": "build" },
+      "group": {
+        "kind": "build"
+      },
       "label": "tsc: watch"
     },
     {
