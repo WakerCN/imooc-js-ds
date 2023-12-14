@@ -36,3 +36,5 @@ console.log(
   "font-size:16px;color:#ffffff;background:#f0932b",
   res
 );
+
+export default trap;
